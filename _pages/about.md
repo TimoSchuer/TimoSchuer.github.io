@@ -1,14 +1,19 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Über mich"
+excerpt: "Über mich"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Site is currently under development.
+<div style= "text-align: justify">
+<p>Ich bin wissenschaftlicher Mitarbeiter am Lehrstuhl von Prof. Dr. Helmut Spiekermann an der Universität Münster. Meine Forschungsschwerpunkte sind Variationslinguistik, Dialektologie, interaktionale Linguistik und kognitive Linguistik. Methodisch versuche ich die Musterhaftigkeit sprachlicher Formen durch quantitative Methoden nachzuweisen, während ich für eine funktionale Untersuchung auf die Grundsätze der interaktionalen Linguistik zurückgreife. Dabei interessiert mich besonders die Funktionalisierung von (regionalen) Varianten in der Interaktion. </p>
+<p> In meiner Dissertation beschäftige ich mich mit der Frage, wie sich das flexible Einheitenverständnis der gebrauchsbasierten, kognitiven Linguistik (primär in der Tradition Langackers) auf die Praxis der Variablenanalyse in der Dialektologie auswirkt. Dabei nehme ich frequente Mehrworteinheiten in den Blick und versuche die Variation auch funktional nach ihrer Verwendung in der konkreten Gesprächssituation zu beschreiben. </p>
+ <p>Im Rahmen der Untersuchung der Musterhaftigkeit greife ich auf computergestützte Methoden zurück. Um Gesprächstranskripte nutzbar zu machen, habe ich ein R-Paket geschrieben, das EXMARaLDA-Transkripte einliest und in eine Tabellenstruktur bringt. Darauf aufbauend habe ich analytische Tools  mithilfe von Shiny-Apps erstellt. Generell interessiere ich mich auch für Fragen digitaler Analyseinfrastrukturen und nachhaltige Nutzung von Daten.</p>
+ <p> In der universitären Lehre lege ich großen Wert daurauf, Studierende an das empirische Arbeiten heranzuführen und Ihnen Raum für eigene Erprobungen zu geben. Schwerpunkte meiner Lehre sind neben der linguistischen Grundausbildung, regionale Variation und interaktionale Linguistik.</p>
+ </div>
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
@@ -21,11 +26,11 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+6. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------

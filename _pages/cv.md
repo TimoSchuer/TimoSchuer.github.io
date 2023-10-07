@@ -9,34 +9,58 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Ausbildung
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Promotion, Philosophische Fakultät, Universität Münster, laufend
+* M.A in Angewandter Linguistik, Universität Münster, 2018
+  * Erasmussemester an der Universität Salzburg, Wintersemester 2016/17
+* B.A. in Germanistik und kath. Theologie, Universität Münster, 2015
 
-Work experience
+
+Berufliche Tätigkeiten
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Wissenschaftlicher Mitarbeiter, Universität Münster, 2018-heute
+  * Lehrstuhl für deutsche Sprachwissenschaft (mit dem Schwerpunkt Niederdeutsch), Prof. Dr. Helmut Spiekermann
   
-Skills
+Nebenberufliche Tätigkeiten
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* studentische Hilfskraft am Lehrstuhl für deutsche Sprachwissenschaft (mit dem Schwerpunkt Niederdeutsch), Prof. Dr. Helmut Spiekermann, 2012-2018
+* Ems-Vechte-Welle, freier Mitarbeiter, 2008-2011
+  
+Ehrenamtliche Tätigkeiten
+======
+* Zeltlager St. Jodokus Börger, Betreuer, 2007-2019
+* Religiöse Schulwochen, Teamer, 2012-2018
 
-Publications
+Fertigkeiten
+======
+* Programmiersprachen
+  * Python
+  * R
+  * Shiny
+* Satz- und Auszeichnungssprachen 
+  * LaTeX
+  * XML
+  * HTML
+* Software
+  * Microsoft Office
+  * EXMARaLDA
+  * Praat
+* Sprachen
+  * Deutsch (Muttersprache) 
+  * Englisch (fließend)
+  * Plattdeutsch (passiv)
+  * Latein (große Latinum)
+  * Griechisch (Biblisch)
+
+Förderungen
+======
+* Studienstiftung des deutschen Volkes, Stipendiat, 2012-2018
+* Förderung studentischer Projekte, Universität Münster, 2017
+* Forschungsförderfond des Fachbereichs 9, 2022
+
+
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -56,4 +80,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

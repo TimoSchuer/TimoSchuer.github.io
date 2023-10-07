@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "ExmaraldaR"
+excerpt: "R Paket zur Verabeitung von Transkripten, die mit dem Partitur Editor erstellt wurden."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Das Paket importiert .exb Dateien und erstellt ein Tabellenobjekt, indem Transkript und Annotation alligniert sind. Dabei werden IP-Nummerierungen nach der GAT2-Konvention erstellt. Das Paket ist noch in der Entwicklung und wird in Zukunft um weitere Funktionen erweitert. Code und weitere Hinweise [hier](https://github.com/TimoSchuer/ExmaraldaR).
