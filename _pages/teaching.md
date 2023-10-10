@@ -26,6 +26,6 @@ author_profile: true
 
 | Jahr  | Name   | Titel                 | Abschluss |
 | --------- | ------------------- |-------------------- |-------------------------------- |
-|2023 | Beckmann, Janne | Transfer syntaktischer Hinweise der hochdeutschen Substantivgroßschreibung auf das Niederdeutsche. Eine Analyse anhand eines niederdeutschen Dikatats | BA |
+|2023 | Beckmann, Janne | Transfer syntaktischer Hinweise der hochdeutschen Substantivgroßschreibung auf das Niederdeutsche. Eine Analyse anhand eines niederdeutschen Diktats | BA |
 | 2023 | Wilmes, Marie | "Dat is doch wat!" - Eine Untersuchung des unverschobenen _t_ im Auslaut des Niederdeutschen der Gemeinde Börger| BA |
 | 2023 | Eckermann, Niclas | "Die is jetz eikaufe" - Semantisch- funktionale Analyse der Absentiv-Konstruktion im gesprochenen Deutsch | BA |
