@@ -6,8 +6,8 @@ main:
   - title: "Vorträge"
     url: /talks/    
 
-  # - title: "Teaching"
-  #   url: /teaching/    
+  - title: "Lehre"
+    url: /teaching/    
   - title: "CV"
     url: /cv/
   # - title: "Skripte"
