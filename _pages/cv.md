@@ -12,7 +12,7 @@ redirect_from:
 Ausbildung
 ======
 * Promotion, Philosophische Fakultät, Universität Münster, laufend
-* M.A in Angewandter Linguistik, Universität Münster, 2018
+* M.A. in Angewandter Linguistik, Universität Münster, 2018
   * Erasmussemester an der Universität Salzburg, Wintersemester 2016/17
 * B.A. in Germanistik und kath. Theologie, Universität Münster, 2015
 
@@ -50,7 +50,7 @@ Fertigkeiten
   * Deutsch (Muttersprache) 
   * Englisch (fließend)
   * Plattdeutsch (passiv)
-  * Latein (große Latinum)
+  * Latein (großes Latinum)
   * Griechisch (Biblisch)
 
 Förderungen
