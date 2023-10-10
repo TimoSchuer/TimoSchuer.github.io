@@ -22,7 +22,7 @@ author_profile: true
 |WiSe 2018/19 | Übung (Bachelor) | Universität Münster | Grammatik der deutschen Sprache  |
 |SoSe 2018  | Seminar (Bachelor)  | Universität Münster | Regionale Variation im Gespräch |
 
-## Beteute Arbeiten (nur Erstbetreuungen)
+## Betreute Arbeiten (nur Erstbetreuungen)
 
 | Jahr  | Name   | Titel                 | Abschluss |
 | --------- | ------------------- |-------------------- |-------------------------------- |
