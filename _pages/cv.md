@@ -22,7 +22,7 @@ Berufliche Tätigkeiten
 * Wissenschaftlicher Mitarbeiter, Universität Münster, 2018-heute
   * Lehrstuhl für deutsche Sprachwissenschaft (mit dem Schwerpunkt Niederdeutsch), Prof. Dr. Helmut Spiekermann
 * Wissenschaftlicher Referent, Landschaftsverband Westfalen-Lippe, 2024 - heute
-  * Kommission für Mundart- und Namenkunde 
+  * Kommission für Mundart- und Namenkunde Westfalens
   
 Nebenberufliche Tätigkeiten
 ======
