@@ -61,6 +61,10 @@ Förderungen
 * Förderung studentischer Projekte, Universität Münster, 2017
 * Forschungsförderfond des Fachbereichs 9, 2022
 
+Gutachtertätigkeiten
+======
+* Zeitschrift für Angewandte Linguistik
+
 
 <!-- Publications
 ======
