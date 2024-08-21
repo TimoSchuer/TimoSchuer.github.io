@@ -8,7 +8,7 @@ author_profile: true
 | Semester  | Veranstaltungstyp   | Ort                 | Titel                           |
 | --------- | ------------------- |-------------------- |-------------------------------- |
 |SoSe 2024 | Seminar (Bachelor) | Universität Münster | Phonetik und Phonologie  |
-|WiSe 2023/23 | Seminar (Bachelor) | Universität Münster | Regionale Syntax |
+|WiSe 2023/24 | Seminar (Bachelor) | Universität Münster | Regionale Syntax |
 |SoSe 2023  | Seminar (Bachelor)  | Universität Münster | Code-Switching in norddeutschen Alltagsgesprächen |
 |SoSe 2023| Workshop | Hochschule RheinMain  | Daten visualisieren für die Abschlussarbeit mit R|
 |WiSe 2022/23 | Übung (Master) | Universität Münster | Analysen sprachlicher Formen und Funktionen  |
