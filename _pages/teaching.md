@@ -7,6 +7,7 @@ author_profile: true
 
 | Semester  | Veranstaltungstyp   | Ort                 | Titel                           |
 | --------- | ------------------- |-------------------- |-------------------------------- |
+|SoSe 2024 | Seminar (Bachelor) | Universität Münster | Phonetik und Phonologie  |
 |WiSe 2023/23 | Seminar (Bachelor) | Universität Münster | Regionale Syntax |
 |SoSe 2023  | Seminar (Bachelor)  | Universität Münster | Code-Switching in norddeutschen Alltagsgesprächen |
 |SoSe 2023| Workshop | Hochschule RheinMain  | Daten visualisieren für die Abschlussarbeit mit R|
@@ -27,6 +28,16 @@ author_profile: true
 
 | Jahr  | Name   | Titel                 | Abschluss |
 | --------- | ------------------- |-------------------- |-------------------------------- |
+|2024 | KLeine, Josie | Das TCU-finale _oder_ in Unterrichtsgesprächen - eine gesprächsanytische Untersuchung | BA |
+|2024 | Robbes, Jana | Die semantische Vielfalt von wohl in norddeutschen Alltagsgesprächen. Eine
+Gesprächsanalyse syntaktischer Kombination von wohl und dem Modalverb
+kann | BA |
+|2024 | Schulte, Louisa | [ʃɔn vɪdɐ] Die standarddivergente Vokalk¨urzung in Menden(Sauerland) im
+Vergleich zu Hannover | BA |
+|2024 | Grafenburg, Rika | Verschriftungsstrategien von Lankvokalen in spontanen Niederdeutschschreibungen.
+Analyse anhand eines niederdeutschen Diktakts | BA |
+|2024 | Lauffs, Johanna | Die Rolle der Sprache bei der Integration - Inwieweit spielen Regiolekte/
+Dialekte eine Rolle bei der Wahrnehmung von DaZ-Lernenden? | BA |
 |2023 | Beckmann, Janne | Transfer syntaktischer Hinweise der hochdeutschen Substantivgroßschreibung auf das Niederdeutsche. Eine Analyse anhand eines niederdeutschen Diktats | BA |
 | 2023 | Wilmes, Marie | "Dat is doch wat!" - Eine Untersuchung des unverschobenen _t_ im Auslaut des Niederdeutschen der Gemeinde Börger| BA |
 | 2023 | Eckermann, Niclas | "Die is jetz eikaufe" - Semantisch- funktionale Analyse der Absentiv-Konstruktion im gesprochenen Deutsch | BA |
