@@ -30,7 +30,7 @@ author_profile: true
 | --------- | ------------------- |-------------------- |-------------------------------- |
 |2024 | Kleine, Josie | Das TCU-finale _oder_ in Unterrichtsgesprächen - eine gesprächsanytische Untersuchung | BA |
 |2024 | Robbes, Jana | Die semantische Vielfalt von wohl in norddeutschen Alltagsgesprächen. Eine Gesprächsanalyse syntaktischer Kombination von wohl und dem Modalverb kann | BA |
-|2024 | Schulte, Louisa | [ʃɔn vɪdɐ] Die standarddivergente Vokalkürzung in Menden(Sauerland) im Vergleich zu Hannover | BA |
+|2024 | Schulte, Louisa | [ʃɔn vɪdɐ] Die standarddivergente Vokalkürzung in Menden (Sauerland) im Vergleich zu Hannover | BA |
 |2024 | Grafenburg, Rika | Verschriftungsstrategien von Lankvokalen in spontanen Niederdeutschschreibungen. Analyse anhand eines niederdeutschen Diktakts | BA |
 |2024 | Lauffs, Johanna | Die Rolle der Sprache bei der Integration - Inwieweit spielen Regiolekte/ Dialekte eine Rolle bei der Wahrnehmung von DaZ-Lernenden? | BA |
 |2023 | Beckmann, Janne | Transfer syntaktischer Hinweise der hochdeutschen Substantivgroßschreibung auf das Niederdeutsche. Eine Analyse anhand eines niederdeutschen Diktats | BA |
