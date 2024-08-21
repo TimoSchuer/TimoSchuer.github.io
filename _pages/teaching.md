@@ -30,8 +30,7 @@ author_profile: true
 | --------- | ------------------- |-------------------- |-------------------------------- |
 |2024 | Kleine, Josie | Das TCU-finale _oder_ in Unterrichtsgesprächen - eine gesprächsanytische Untersuchung | BA |
 |2024 | Robbes, Jana | Die semantische Vielfalt von wohl in norddeutschen Alltagsgesprächen. Eine
-Gesprächsanalyse syntaktischer Kombination von wohl und dem Modalverb
-kann | BA |
+Gesprächsanalyse syntaktischer Kombination von wohl und dem Modalverb kann | BA |
 |2024 | Schulte, Louisa | [ʃɔn vɪdɐ] Die standarddivergente Vokalk¨urzung in Menden(Sauerland) im
 Vergleich zu Hannover | BA |
 |2024 | Grafenburg, Rika | Verschriftungsstrategien von Lankvokalen in spontanen Niederdeutschschreibungen.
