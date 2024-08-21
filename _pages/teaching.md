@@ -28,7 +28,7 @@ author_profile: true
 
 | Jahr  | Name   | Titel                 | Abschluss |
 | --------- | ------------------- |-------------------- |-------------------------------- |
-|2024 | KLeine, Josie | Das TCU-finale _oder_ in Unterrichtsgesprächen - eine gesprächsanytische Untersuchung | BA |
+|2024 | Kleine, Josie | Das TCU-finale _oder_ in Unterrichtsgesprächen - eine gesprächsanytische Untersuchung | BA |
 |2024 | Robbes, Jana | Die semantische Vielfalt von wohl in norddeutschen Alltagsgesprächen. Eine
 Gesprächsanalyse syntaktischer Kombination von wohl und dem Modalverb
 kann | BA |
